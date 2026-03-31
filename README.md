@@ -7,8 +7,9 @@ I'm majoring in Computer Science at Stony Brook University.
 Interested in back-end development and Data Science.
 
 ## 🏆 Honors & Awards
-- 🥈 Wolfie Tank Startup Competition – 2nd Place ($1000)
-- 📜 Dean’s List (All Semesters)
+- Wolfie Tank Startup Competition – 2nd Place ($1000)
+- Dean’s List (All Semesters)
+- Ranked 2nd in Class (2022 Fall)
 
 
 ## Focus Areas
